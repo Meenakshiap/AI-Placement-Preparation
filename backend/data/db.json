@@ -1,0 +1,2126 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_student_01",
+      "name": "Rithika Candidate (Demo)",
+      "email": "student.candidate@demo.com",
+      "passwordHash": "$2a$10$7CZ/prhU5G6VFLCDF/GSHu9zcuOMWiLFamS3TSeEfIh88Uc3GDKKS",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "college": "National Institute of Technology",
+      "createdAt": "2026-08-20T03:59:32.879Z",
+      "updatedAt": "2026-10-08T01:07:03.856Z"
+    },
+    {
+      "name": "Rithika",
+      "email": "sec24cs205@sairamtap.edu.in",
+      "passwordHash": "$2a$10$wjuHVgeyKqPylDHV6hVWlOqh5n3if23xYOqmOCl317SVTao0Ptv.2",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "id": "id_eq414dwmt0zwu6q",
+      "createdAt": "2026-08-20T04:03:36.530Z",
+      "updatedAt": "2026-08-20T06:30:49.359Z"
+    },
+    {
+      "name": "meena",
+      "email": "meenakshiap30@gmail.com",
+      "passwordHash": "$2a$10$nIF6JHijre5KyF/IC/FwOuxazL1OvIWdTYeTERswA/TsUcjVTcTFa",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "id": "id_x10ykormt1ke602",
+      "createdAt": "2026-08-20T13:36:57.314Z",
+      "updatedAt": "2026-08-20T13:37:21.666Z"
+    },
+    {
+      "name": "flower",
+      "email": "meenakshi2006prakash@gmail.com",
+      "passwordHash": "$2a$10$tDaN80KL90ivcWAPX8ght.lVrdaa30Hglnv9TFbT3Y/5hphK3U8o2",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "id": "id_ygp8ri0mu4c5vsy",
+      "createdAt": "2026-09-16T16:49:34.786Z",
+      "updatedAt": "2026-09-16T16:49:34.786Z"
+    },
+    {
+      "name": "qwer",
+      "email": "jayanthiprakashev@gmail.com",
+      "passwordHash": "$2a$10$oeDiqCxg.BwPjNgnGtHpG.uS/DkeQVovEDMCbTlp6wwpUmexLydgi",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "id": "id_gqj77c2mu8ph5jz",
+      "createdAt": "2026-09-19T18:13:20.351Z",
+      "updatedAt": "2026-09-19T18:13:20.351Z"
+    },
+    {
+      "name": "meena",
+      "email": "jayanthiprakashen@gmail.com",
+      "passwordHash": "$2a$10$d.ImsF88BZxOv4mCSRtMueVvFVI6YmkYEVTPYxwRhBzmPyc5hB3wm",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "id": "id_7v29j58muc66oe0",
+      "createdAt": "2026-09-22T04:24:23.544Z",
+      "updatedAt": "2026-09-22T04:24:23.544Z"
+    },
+    {
+      "name": "Meenakshi",
+      "email": "sec24cs085@sairamtap.edu.in",
+      "passwordHash": "$2a$10$YTj.BoEUBKBlsbvfrvirtu2D4XIVfJDiTQnz5idzNvAiR4hosHJha",
+      "targetCompany": "Google",
+      "targetRole": "Software Development Engineer (SDE-1)",
+      "preferredTechStack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "experienceLevel": "Final Year",
+      "graduationYear": 2026,
+      "id": "id_i0c3hiymuy6wpf1",
+      "createdAt": "2026-10-07T14:15:33.805Z",
+      "updatedAt": "2026-10-07T14:17:06.978Z",
+      "college": "Sri Sairam Engineering college"
+    }
+  ],
+  "skillProfiles": [
+    {
+      "id": "prof_usr_demo_student_01",
+      "userId": "usr_demo_student_01",
+      "overallReadinessScore": 100,
+      "assessmentCompleted": true,
+      "categories": {
+        "aptitude": 100,
+        "languages": 100,
+        "dsa": 100,
+        "coreCs": 100,
+        "interview": 100
+      },
+      "topicBreakdown": [
+        {
+          "topic": "Time and Work",
+          "category": "Aptitude",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Series & Patterns",
+          "category": "Aptitude",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Functions & Mutability",
+          "category": "Languages",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Object Oriented Programming",
+          "category": "Languages",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Event Loop & Promises",
+          "category": "Languages",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Linked Lists & Pointers",
+          "category": "Dsa",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Arrays & Hashing",
+          "category": "Dsa",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Operating Systems",
+          "category": "CoreCS",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "DBMS & SQL",
+          "category": "CoreCS",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        },
+        {
+          "topic": "Caching & Scalability",
+          "category": "Interview",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-08T05:52:02.733Z"
+        }
+      ],
+      "strongTopics": [
+        "Time and Work",
+        "Series & Patterns",
+        "Functions & Mutability",
+        "Object Oriented Programming",
+        "Event Loop & Promises",
+        "Linked Lists & Pointers",
+        "Arrays & Hashing",
+        "Operating Systems",
+        "DBMS & SQL",
+        "Caching & Scalability"
+      ],
+      "weakTopics": [],
+      "targetCompanyFit": {
+        "score": 98,
+        "matchLevel": "High",
+        "missingCompetencies": [],
+        "readinessTier": "Tier 1 Ready"
+      },
+      "lastUpdated": "2026-10-08T05:52:02.733Z",
+      "createdAt": "2026-08-20T03:59:32.881Z",
+      "updatedAt": "2026-10-08T05:52:02.733Z"
+    },
+    {
+      "id": "prof_id_eq414dwmt0zwu6q",
+      "userId": "id_eq414dwmt0zwu6q",
+      "overallReadinessScore": 0,
+      "assessmentCompleted": false,
+      "categories": {
+        "aptitude": 0,
+        "languages": 0,
+        "dsa": 0,
+        "coreCs": 0,
+        "interview": 0
+      },
+      "topicBreakdown": [],
+      "strongTopics": [],
+      "weakTopics": [],
+      "targetCompanyFit": {
+        "score": 0,
+        "matchLevel": "Needs Work",
+        "missingCompetencies": [
+          "Complete Initial Diagnostic Assessment to identify gap areas"
+        ],
+        "readinessTier": "Foundational"
+      },
+      "lastUpdated": "2026-08-20T04:03:36.535Z",
+      "createdAt": "2026-08-20T04:03:36.535Z",
+      "updatedAt": "2026-08-20T04:03:36.535Z"
+    },
+    {
+      "id": "prof_id_x10ykormt1ke602",
+      "userId": "id_x10ykormt1ke602",
+      "overallReadinessScore": 0,
+      "assessmentCompleted": false,
+      "categories": {
+        "aptitude": 0,
+        "languages": 0,
+        "dsa": 0,
+        "coreCs": 0,
+        "interview": 0
+      },
+      "topicBreakdown": [],
+      "strongTopics": [],
+      "weakTopics": [],
+      "targetCompanyFit": {
+        "score": 0,
+        "matchLevel": "Needs Work",
+        "missingCompetencies": [
+          "Complete Initial Diagnostic Assessment to identify gap areas"
+        ],
+        "readinessTier": "Foundational"
+      },
+      "lastUpdated": "2026-08-20T13:36:57.315Z",
+      "createdAt": "2026-08-20T13:36:57.315Z",
+      "updatedAt": "2026-08-20T13:36:57.315Z"
+    },
+    {
+      "id": "prof_id_ygp8ri0mu4c5vsy",
+      "userId": "id_ygp8ri0mu4c5vsy",
+      "overallReadinessScore": 0,
+      "assessmentCompleted": false,
+      "categories": {
+        "aptitude": 0,
+        "languages": 0,
+        "dsa": 0,
+        "coreCs": 0,
+        "interview": 0
+      },
+      "topicBreakdown": [],
+      "strongTopics": [],
+      "weakTopics": [],
+      "targetCompanyFit": {
+        "score": 0,
+        "matchLevel": "Needs Work",
+        "missingCompetencies": [
+          "Complete Initial Diagnostic Assessment to identify gap areas"
+        ],
+        "readinessTier": "Foundational"
+      },
+      "lastUpdated": "2026-09-16T16:49:34.788Z",
+      "createdAt": "2026-09-16T16:49:34.788Z",
+      "updatedAt": "2026-09-16T16:49:34.788Z"
+    },
+    {
+      "id": "prof_id_gqj77c2mu8ph5jz",
+      "userId": "id_gqj77c2mu8ph5jz",
+      "overallReadinessScore": 30,
+      "assessmentCompleted": true,
+      "categories": {
+        "aptitude": 0,
+        "languages": 33,
+        "dsa": 50,
+        "coreCs": 0,
+        "interview": 0
+      },
+      "topicBreakdown": [
+        {
+          "topic": "Time and Work",
+          "category": "Aptitude",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Series & Patterns",
+          "category": "Aptitude",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Functions & Mutability",
+          "category": "Languages",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Object Oriented Programming",
+          "category": "Languages",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Event Loop & Promises",
+          "category": "Languages",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Linked Lists & Pointers",
+          "category": "Dsa",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Arrays & Hashing",
+          "category": "Dsa",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Operating Systems",
+          "category": "CoreCS",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "DBMS & SQL",
+          "category": "CoreCS",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        },
+        {
+          "topic": "Caching & Scalability",
+          "category": "Interview",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-09-19T18:14:24.477Z"
+        }
+      ],
+      "strongTopics": [
+        "Functions & Mutability",
+        "Arrays & Hashing"
+      ],
+      "weakTopics": [
+        "Time and Work",
+        "Series & Patterns",
+        "Object Oriented Programming",
+        "Event Loop & Promises",
+        "Linked Lists & Pointers",
+        "Operating Systems",
+        "DBMS & SQL",
+        "Caching & Scalability"
+      ],
+      "targetCompanyFit": {
+        "score": 33,
+        "matchLevel": "Needs Work",
+        "missingCompetencies": [
+          "Advanced Data Structures & Graph Algorithms",
+          "Language Memory Model & Concurrency",
+          "OS Concurrency & DBMS Normalization",
+          "System Design Trade-offs & Communication"
+        ],
+        "readinessTier": "Foundational"
+      },
+      "lastUpdated": "2026-09-19T18:14:24.477Z",
+      "createdAt": "2026-09-19T18:13:20.353Z",
+      "updatedAt": "2026-09-19T18:14:24.477Z"
+    },
+    {
+      "id": "prof_id_7v29j58muc66oe0",
+      "userId": "id_7v29j58muc66oe0",
+      "overallReadinessScore": 0,
+      "assessmentCompleted": false,
+      "categories": {
+        "aptitude": 0,
+        "languages": 0,
+        "dsa": 0,
+        "coreCs": 0,
+        "interview": 0
+      },
+      "topicBreakdown": [],
+      "strongTopics": [],
+      "weakTopics": [],
+      "targetCompanyFit": {
+        "score": 0,
+        "matchLevel": "Needs Work",
+        "missingCompetencies": [
+          "Complete Initial Diagnostic Assessment to identify gap areas"
+        ],
+        "readinessTier": "Foundational"
+      },
+      "lastUpdated": "2026-09-22T04:24:23.546Z",
+      "createdAt": "2026-09-22T04:24:23.546Z",
+      "updatedAt": "2026-09-22T04:24:23.546Z"
+    },
+    {
+      "id": "prof_id_i0c3hiymuy6wpf1",
+      "userId": "id_i0c3hiymuy6wpf1",
+      "overallReadinessScore": 17,
+      "assessmentCompleted": true,
+      "categories": {
+        "aptitude": 50,
+        "languages": 33,
+        "dsa": 0,
+        "coreCs": 50,
+        "interview": 0
+      },
+      "topicBreakdown": [
+        {
+          "topic": "Time and Work",
+          "category": "Aptitude",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Series & Patterns",
+          "category": "Aptitude",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Functions & Mutability",
+          "category": "Languages",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Object Oriented Programming",
+          "category": "Languages",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Event Loop & Promises",
+          "category": "Languages",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Linked Lists & Pointers",
+          "category": "Dsa",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Arrays & Hashing",
+          "category": "Dsa",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Operating Systems",
+          "category": "CoreCS",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "DBMS & SQL",
+          "category": "CoreCS",
+          "score": 100,
+          "accuracy": 100,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.496Z"
+        },
+        {
+          "topic": "Caching & Scalability",
+          "category": "Interview",
+          "score": 0,
+          "accuracy": 0,
+          "attempts": 1,
+          "lastPracticed": "2026-10-07T14:17:57.497Z"
+        }
+      ],
+      "strongTopics": [
+        "Series & Patterns",
+        "Functions & Mutability",
+        "DBMS & SQL"
+      ],
+      "weakTopics": [
+        "Time and Work",
+        "Object Oriented Programming",
+        "Event Loop & Promises",
+        "Linked Lists & Pointers",
+        "Arrays & Hashing",
+        "Operating Systems",
+        "Caching & Scalability"
+      ],
+      "targetCompanyFit": {
+        "score": 25,
+        "matchLevel": "Needs Work",
+        "missingCompetencies": [
+          "Advanced Data Structures & Graph Algorithms",
+          "Language Memory Model & Concurrency",
+          "OS Concurrency & DBMS Normalization",
+          "System Design Trade-offs & Communication"
+        ],
+        "readinessTier": "Foundational"
+      },
+      "lastUpdated": "2026-10-07T14:17:57.497Z",
+      "createdAt": "2026-10-07T14:15:33.806Z",
+      "updatedAt": "2026-10-07T14:17:57.498Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": "diag_1",
+      "title": "Work & Time Efficiency Calculation",
+      "type": "diagnostic",
+      "category": "Quantitative",
+      "subTopic": "Time and Work",
+      "difficulty": "Medium",
+      "description": "Worker A can finish a software module in 12 days, while Worker B can finish the same module in 18 days. If they work together with Worker C and finish the module in 4 days, in how many days can Worker C alone complete the entire module?",
+      "options": [
+        "9 days",
+        "8 days",
+        "10 days",
+        "12 days"
+      ],
+      "correctAnswer": "9 days",
+      "explanation": "Total 1 day work of A + B + C = 1/4. Work of A = 1/12, Work of B = 1/18. Therefore, 1 day work of C = 1/4 - (1/12 + 1/18) = 1/4 - (5/36) = (9 - 5)/36 = 4/36 = 1/9. Hence C alone completes the task in 9 days.",
+      "hints": [
+        "Find the combined rate per day: Rate(A) + Rate(B) + Rate(C) = Rate(Total)",
+        "LCM of 12, 18, and 4 is 36 units."
+      ],
+      "companiesTagged": [
+        "TCS",
+        "Infosys",
+        "Accenture",
+        "Wipro"
+      ],
+      "createdAt": "2026-08-20T03:58:05.260Z",
+      "updatedAt": "2026-08-20T03:58:05.260Z"
+    },
+    {
+      "id": "diag_2",
+      "title": "Logical Deduction & Sequence Pattern",
+      "type": "diagnostic",
+      "category": "Logical",
+      "subTopic": "Series & Patterns",
+      "difficulty": "Medium",
+      "description": "Identify the next missing number in the following algorithmic sequence: 4, 18, 48, 100, 180, ?",
+      "options": [
+        "294",
+        "275",
+        "312",
+        "248"
+      ],
+      "correctAnswer": "294",
+      "explanation": "The pattern follows n^3 - n^2 (or n^2 * (n - 1)) where n starts from 2:\nFor n=2: 2^3 - 2^2 = 8 - 4 = 4\nFor n=3: 3^3 - 3^2 = 27 - 9 = 18\nFor n=4: 4^3 - 4^2 = 64 - 16 = 48\nFor n=5: 5^3 - 5^2 = 125 - 25 = 100\nFor n=6: 6^3 - 6^2 = 216 - 36 = 180\nFor n=7: 7^3 - 7^2 = 343 - 49 = 294.",
+      "hints": [
+        "Try expressing each term as a cube minus square or product of two powers.",
+        "For term 1: 1 * 4, term 2: 2 * 9, term 3: 3 * 16, term 4: 4 * 25..."
+      ],
+      "companiesTagged": [
+        "Google",
+        "Goldman Sachs",
+        "Amazon",
+        "Infosys"
+      ],
+      "createdAt": "2026-08-20T03:58:05.265Z",
+      "updatedAt": "2026-08-20T03:58:05.265Z"
+    },
+    {
+      "id": "diag_3",
+      "title": "Python Scoping & Mutable Default Arguments",
+      "type": "diagnostic",
+      "category": "Python",
+      "subTopic": "Functions & Mutability",
+      "difficulty": "Medium",
+      "description": "What will be the exact output of executing the following Python snippet?\n\n```python\ndef append_to_list(val, my_list=[]):\n    my_list.append(val)\n    return my_list\n\nprint(append_to_list(10))\nprint(append_to_list(20, []))\nprint(append_to_list(30))\n```",
+      "options": [
+        "[10], [20], [10, 30]",
+        "[10], [20], [30]",
+        "[10], [10, 20], [10, 20, 30]",
+        "[10], [20], [20, 30]"
+      ],
+      "correctAnswer": "[10], [20], [10, 30]",
+      "explanation": "In Python, default arguments are evaluated once when the function is defined, not each time the function is called. The list `my_list` is shared across invocations that do not pass an explicit second argument. In the 2nd call, a fresh list `[]` was explicitly passed so it did not mutate the default list. The 3rd call reuses the mutated default list `[10]`, resulting in `[10, 30]`.",
+      "hints": [
+        "Default arguments in Python are instantiated at definition time and reused across calls."
+      ],
+      "companiesTagged": [
+        "Google",
+        "Microsoft",
+        "Amazon"
+      ],
+      "createdAt": "2026-08-20T03:58:05.266Z",
+      "updatedAt": "2026-08-20T03:58:05.266Z"
+    },
+    {
+      "id": "diag_4",
+      "title": "Java OOPs: Polymorphism & Method Overriding",
+      "type": "diagnostic",
+      "category": "Java",
+      "subTopic": "Object Oriented Programming",
+      "difficulty": "Medium",
+      "description": "Given the Java code below, what is the output of `new Child().display()`?\n\n```java\nclass Parent {\n    int x = 10;\n    void print() { System.out.print(x + \" \"); }\n}\nclass Child extends Parent {\n    int x = 20;\n    void print() { System.out.print(x + \" \"); }\n    void display() {\n        Parent p = this;\n        System.out.print(p.x + \" \");\n        p.print();\n    }\n}\n```",
+      "options": [
+        "10 20 ",
+        "20 20 ",
+        "10 10 ",
+        "20 10 "
+      ],
+      "correctAnswer": "10 20 ",
+      "explanation": "In Java, member variables (fields) do not exhibit polymorphism and are resolved at compile-time based on the reference type (`p` is of type `Parent`, so `p.x` accesses `Parent.x = 10`). However, non-private instance methods are dynamically dispatched at runtime based on the actual object instance (`this` is an instance of `Child`, so `p.print()` invokes `Child.print()`, which prints `20`).",
+      "hints": [
+        "Variable binding is determined at compile-time by reference type, whereas virtual method dispatch happens at runtime."
+      ],
+      "companiesTagged": [
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Microsoft"
+      ],
+      "createdAt": "2026-08-20T03:58:05.268Z",
+      "updatedAt": "2026-08-20T03:58:05.268Z"
+    },
+    {
+      "id": "diag_5",
+      "title": "JavaScript Event Loop & Microtask Queues",
+      "type": "diagnostic",
+      "category": "JavaScript",
+      "subTopic": "Event Loop & Promises",
+      "difficulty": "Hard",
+      "description": "What will be printed to the console when executing this JavaScript code?\n\n```javascript\nconsole.log(1);\nsetTimeout(() => console.log(2), 0);\nPromise.resolve().then(() => console.log(3)).then(() => console.log(4));\nconsole.log(5);\n```",
+      "options": [
+        "1, 5, 3, 4, 2",
+        "1, 2, 3, 4, 5",
+        "1, 5, 2, 3, 4",
+        "1, 3, 5, 4, 2"
+      ],
+      "correctAnswer": "1, 5, 3, 4, 2",
+      "explanation": "1 and 5 are synchronous calls and run immediately. Next, microtasks (Promises) in the microtask queue run before macrotasks: Promise chain prints 3, then 4. Finally, the macrotask (`setTimeout` callback) executes and prints 2.",
+      "hints": [
+        "Synchronous code -> Microtask queue (Promises) -> Macrotask queue (setTimeout)."
+      ],
+      "companiesTagged": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Goldman Sachs"
+      ],
+      "createdAt": "2026-08-20T03:58:05.270Z",
+      "updatedAt": "2026-08-20T03:58:05.270Z"
+    },
+    {
+      "id": "diag_6",
+      "title": "Data Structures: Time Complexity of Linked List Cycle Detection",
+      "type": "diagnostic",
+      "category": "DSA",
+      "subTopic": "Linked Lists & Pointers",
+      "difficulty": "Medium",
+      "description": "What is the optimal auxiliary space complexity of Floyd’s Cycle-Finding Algorithm (Tortoise and Hare) for detecting a cycle in a singly linked list with N nodes?",
+      "options": [
+        "O(1)",
+        "O(N)",
+        "O(log N)",
+        "O(N^2)"
+      ],
+      "correctAnswer": "O(1)",
+      "explanation": "Floyd’s Cycle-Finding algorithm uses two pointers (`slow` moving 1 step and `fast` moving 2 steps). It only stores two memory pointers, requiring O(1) auxiliary constant memory space while traversing in O(N) time.",
+      "hints": [
+        "Unlike a HashSet approach which requires storing visited node references in O(N) space, two-pointer tracking needs no external buffers."
+      ],
+      "companiesTagged": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Goldman Sachs"
+      ],
+      "createdAt": "2026-08-20T03:58:05.271Z",
+      "updatedAt": "2026-08-20T03:58:05.271Z"
+    },
+    {
+      "id": "diag_7",
+      "title": "Algorithms: Optimal Substructure in Two Sum / Hash Lookup",
+      "type": "diagnostic",
+      "category": "DSA",
+      "subTopic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "description": "Given an unsorted array of N integers, what is the most optimal average time complexity to find if there exist two elements whose sum equals a target value K?",
+      "options": [
+        "O(N) time using a Hash Map",
+        "O(N log N) time using Sorting and Binary Search",
+        "O(N^2) time using Nested Loops",
+        "O(1) time using a Bitset"
+      ],
+      "correctAnswer": "O(N) time using a Hash Map",
+      "explanation": "By iterating through the array once and storing each seen number in a Hash Map (or Hash Set), we can check in O(1) average time if the complement `K - num` has already been encountered, achieving an optimal O(N) time and O(N) space complexity.",
+      "hints": [
+        "Complement lookup: For each element x, check if (K - x) exists in the table."
+      ],
+      "companiesTagged": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ],
+      "createdAt": "2026-08-20T03:58:05.273Z",
+      "updatedAt": "2026-08-20T03:58:05.273Z"
+    },
+    {
+      "id": "diag_8",
+      "title": "Operating Systems: Deadlock Necessary Conditions",
+      "type": "diagnostic",
+      "category": "CoreCS",
+      "subTopic": "Operating Systems",
+      "difficulty": "Medium",
+      "description": "Which of the following is NOT one of the four Coffman conditions necessary for a system deadlock to occur?",
+      "options": [
+        "Preemptive Resource Allocation",
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "Circular Wait"
+      ],
+      "correctAnswer": "Preemptive Resource Allocation",
+      "explanation": "The four necessary Coffman conditions for deadlock are: 1) Mutual Exclusion, 2) Hold and Wait, 3) No Preemption (resources cannot be forcibly taken from processes), and 4) Circular Wait. \"Preemptive Resource Allocation\" actually prevents deadlocks rather than causing them.",
+      "hints": [
+        "If resources can be preempted, deadlocks can be resolved and broken."
+      ],
+      "companiesTagged": [
+        "Microsoft",
+        "Google",
+        "Amazon",
+        "TCS"
+      ],
+      "createdAt": "2026-08-20T03:58:05.274Z",
+      "updatedAt": "2026-08-20T03:58:05.274Z"
+    },
+    {
+      "id": "diag_9",
+      "title": "DBMS: SQL Normalization & Dependency Preserving",
+      "type": "diagnostic",
+      "category": "CoreCS",
+      "subTopic": "DBMS & SQL",
+      "difficulty": "Medium",
+      "description": "A relation R is in Third Normal Form (3NF) if it is in 2NF and:",
+      "options": [
+        "Every non-prime attribute is non-transitively dependent on every candidate key",
+        "Every determinant is a candidate key (BCNF condition)",
+        "There are no multi-valued dependencies",
+        "Every non-key attribute is partially dependent on the primary key"
+      ],
+      "correctAnswer": "Every non-prime attribute is non-transitively dependent on every candidate key",
+      "explanation": "3NF strictly eliminates transitive functional dependencies: for every functional dependency X -> Y, either X is a super key or Y is a prime attribute (part of a candidate key).",
+      "hints": [
+        "2NF removes partial key dependencies; 3NF removes transitive dependencies."
+      ],
+      "companiesTagged": [
+        "TCS",
+        "Infosys",
+        "Amazon",
+        "Wipro",
+        "Accenture"
+      ],
+      "createdAt": "2026-08-20T03:58:05.276Z",
+      "updatedAt": "2026-08-20T03:58:05.276Z"
+    },
+    {
+      "id": "diag_10",
+      "title": "System Design: Caching Strategy Trade-offs",
+      "type": "diagnostic",
+      "category": "SystemDesign",
+      "subTopic": "Caching & Scalability",
+      "difficulty": "Hard",
+      "description": "In a high-throughput read-heavy web application, which caching strategy writes data directly to the cache and the database simultaneously to guarantee immediate read consistency?",
+      "options": [
+        "Write-Through Caching",
+        "Write-Back (Write-Behind) Caching",
+        "Write-Around Caching",
+        "Cache-Aside (Lazy Loading)"
+      ],
+      "correctAnswer": "Write-Through Caching",
+      "explanation": "In Write-Through caching, data is written into the cache and the permanent database store concurrently before the write operation returns success. This ensures the cache is never stale, though it introduces higher write latency compared to Write-Back.",
+      "hints": [
+        "Write-back writes to cache first and async batches to DB; Write-through writes to both synchronously."
+      ],
+      "companiesTagged": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Goldman Sachs"
+      ],
+      "createdAt": "2026-08-20T03:58:05.279Z",
+      "updatedAt": "2026-08-20T03:58:05.279Z"
+    }
+  ],
+  "attempts": [
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_1",
+      "module": "diagnostic",
+      "userSubmission": "9 days",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_qtkcqgemt0zrn1o",
+      "createdAt": "2026-08-20T03:59:33.996Z",
+      "updatedAt": "2026-08-20T03:59:33.996Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_2",
+      "module": "diagnostic",
+      "userSubmission": "294",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_u5c6fhrmt0zrn1q",
+      "createdAt": "2026-08-20T03:59:33.998Z",
+      "updatedAt": "2026-08-20T03:59:33.998Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_3",
+      "module": "diagnostic",
+      "userSubmission": "[10], [20], [10, 30]",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_itnrxv4mt0zrn1s",
+      "createdAt": "2026-08-20T03:59:34.000Z",
+      "updatedAt": "2026-08-20T03:59:34.000Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_4",
+      "module": "diagnostic",
+      "userSubmission": "10 20 ",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_s2w4d5tmt0zrn1u",
+      "createdAt": "2026-08-20T03:59:34.002Z",
+      "updatedAt": "2026-08-20T03:59:34.002Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_5",
+      "module": "diagnostic",
+      "userSubmission": "1, 5, 3, 4, 2",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_bypwevemt0zrn1w",
+      "createdAt": "2026-08-20T03:59:34.004Z",
+      "updatedAt": "2026-08-20T03:59:34.004Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_6",
+      "module": "diagnostic",
+      "userSubmission": "O(1)",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_irnxnnlmt0zrn1z",
+      "createdAt": "2026-08-20T03:59:34.007Z",
+      "updatedAt": "2026-08-20T03:59:34.007Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_7",
+      "module": "diagnostic",
+      "userSubmission": "O(N) time using a Hash Map",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_dnyincqmt0zrn20",
+      "createdAt": "2026-08-20T03:59:34.008Z",
+      "updatedAt": "2026-08-20T03:59:34.008Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_8",
+      "module": "diagnostic",
+      "userSubmission": "Preemptive Resource Allocation",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_y9da2hhmt0zrn22",
+      "createdAt": "2026-08-20T03:59:34.010Z",
+      "updatedAt": "2026-08-20T03:59:34.010Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_9",
+      "module": "diagnostic",
+      "userSubmission": "Every non-prime attribute is non-transitively dependent on every candidate key",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_glsn6ysmt0zrn24",
+      "createdAt": "2026-08-20T03:59:34.012Z",
+      "updatedAt": "2026-08-20T03:59:34.012Z"
+    },
+    {
+      "userId": "usr_demo_student_01",
+      "questionId": "diag_10",
+      "module": "diagnostic",
+      "userSubmission": "Write-Through Caching",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_63603k9mt0zrn26",
+      "createdAt": "2026-08-20T03:59:34.014Z",
+      "updatedAt": "2026-08-20T03:59:34.014Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_1",
+      "module": "diagnostic",
+      "userSubmission": "10 days",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "Total 1 day work of A + B + C = 1/4. Work of A = 1/12, Work of B = 1/18. Therefore, 1 day work of C = 1/4 - (1/12 + 1/18) = 1/4 - (5/36) = (9 - 5)/36 = 4/36 = 1/9. Hence C alone completes the task in 9 days.",
+      "id": "id_mfhd3wemu8piiyg",
+      "createdAt": "2026-09-19T18:14:24.376Z",
+      "updatedAt": "2026-09-19T18:14:24.376Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_2",
+      "module": "diagnostic",
+      "userSubmission": "275",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "The pattern follows n^3 - n^2 (or n^2 * (n - 1)) where n starts from 2:\nFor n=2: 2^3 - 2^2 = 8 - 4 = 4\nFor n=3: 3^3 - 3^2 = 27 - 9 = 18\nFor n=4: 4^3 - 4^2 = 64 - 16 = 48\nFor n=5: 5^3 - 5^2 = 125 - 25 = 100\nFor n=6: 6^3 - 6^2 = 216 - 36 = 180\nFor n=7: 7^3 - 7^2 = 343 - 49 = 294.",
+      "id": "id_xk7jvnnmu8piiyh",
+      "createdAt": "2026-09-19T18:14:24.377Z",
+      "updatedAt": "2026-09-19T18:14:24.377Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_3",
+      "module": "diagnostic",
+      "userSubmission": "[10], [20], [10, 30]",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_oz3hsaymu8piiyj",
+      "createdAt": "2026-09-19T18:14:24.379Z",
+      "updatedAt": "2026-09-19T18:14:24.379Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_4",
+      "module": "diagnostic",
+      "userSubmission": "10 10 ",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "In Java, member variables (fields) do not exhibit polymorphism and are resolved at compile-time based on the reference type (`p` is of type `Parent`, so `p.x` accesses `Parent.x = 10`). However, non-private instance methods are dynamically dispatched at runtime based on the actual object instance (`this` is an instance of `Child`, so `p.print()` invokes `Child.print()`, which prints `20`).",
+      "id": "id_qegcon4mu8piiz0",
+      "createdAt": "2026-09-19T18:14:24.396Z",
+      "updatedAt": "2026-09-19T18:14:24.396Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_5",
+      "module": "diagnostic",
+      "userSubmission": "1, 2, 3, 4, 5",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "1 and 5 are synchronous calls and run immediately. Next, microtasks (Promises) in the microtask queue run before macrotasks: Promise chain prints 3, then 4. Finally, the macrotask (`setTimeout` callback) executes and prints 2.",
+      "id": "id_37k5c7ymu8piizc",
+      "createdAt": "2026-09-19T18:14:24.408Z",
+      "updatedAt": "2026-09-19T18:14:24.408Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_6",
+      "module": "diagnostic",
+      "userSubmission": "O(N)",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "Floyd’s Cycle-Finding algorithm uses two pointers (`slow` moving 1 step and `fast` moving 2 steps). It only stores two memory pointers, requiring O(1) auxiliary constant memory space while traversing in O(N) time.",
+      "id": "id_vuex0aomu8piizm",
+      "createdAt": "2026-09-19T18:14:24.418Z",
+      "updatedAt": "2026-09-19T18:14:24.418Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_7",
+      "module": "diagnostic",
+      "userSubmission": "O(N) time using a Hash Map",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_h20m1bwmu8piizz",
+      "createdAt": "2026-09-19T18:14:24.431Z",
+      "updatedAt": "2026-09-19T18:14:24.431Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_8",
+      "module": "diagnostic",
+      "userSubmission": "Circular Wait",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "The four necessary Coffman conditions for deadlock are: 1) Mutual Exclusion, 2) Hold and Wait, 3) No Preemption (resources cannot be forcibly taken from processes), and 4) Circular Wait. \"Preemptive Resource Allocation\" actually prevents deadlocks rather than causing them.",
+      "id": "id_lr74f97mu8pij0c",
+      "createdAt": "2026-09-19T18:14:24.444Z",
+      "updatedAt": "2026-09-19T18:14:24.444Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_9",
+      "module": "diagnostic",
+      "userSubmission": "Every determinant is a candidate key (BCNF condition)",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "3NF strictly eliminates transitive functional dependencies: for every functional dependency X -> Y, either X is a super key or Y is a prime attribute (part of a candidate key).",
+      "id": "id_p2tbxm5mu8pij0m",
+      "createdAt": "2026-09-19T18:14:24.454Z",
+      "updatedAt": "2026-09-19T18:14:24.454Z"
+    },
+    {
+      "userId": "id_gqj77c2mu8ph5jz",
+      "questionId": "diag_10",
+      "module": "diagnostic",
+      "userSubmission": "Write-Around Caching",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "In Write-Through caching, data is written into the cache and the permanent database store concurrently before the write operation returns success. This ensures the cache is never stale, though it introduces higher write latency compared to Write-Back.",
+      "id": "id_s6pymecmu8pij0y",
+      "createdAt": "2026-09-19T18:14:24.466Z",
+      "updatedAt": "2026-09-19T18:14:24.466Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_1",
+      "module": "diagnostic",
+      "userSubmission": "12 days",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "Total 1 day work of A + B + C = 1/4. Work of A = 1/12, Work of B = 1/18. Therefore, 1 day work of C = 1/4 - (1/12 + 1/18) = 1/4 - (5/36) = (9 - 5)/36 = 4/36 = 1/9. Hence C alone completes the task in 9 days.",
+      "id": "id_cx63sjnmuy6zs3g",
+      "createdAt": "2026-10-07T14:17:57.244Z",
+      "updatedAt": "2026-10-07T14:17:57.244Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_2",
+      "module": "diagnostic",
+      "userSubmission": "294",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_bhh0l61muy6zs43",
+      "createdAt": "2026-10-07T14:17:57.267Z",
+      "updatedAt": "2026-10-07T14:17:57.267Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_3",
+      "module": "diagnostic",
+      "userSubmission": "[10], [20], [10, 30]",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_dpqsroimuy6zs48",
+      "createdAt": "2026-10-07T14:17:57.272Z",
+      "updatedAt": "2026-10-07T14:17:57.272Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_4",
+      "module": "diagnostic",
+      "userSubmission": "20 10 ",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "In Java, member variables (fields) do not exhibit polymorphism and are resolved at compile-time based on the reference type (`p` is of type `Parent`, so `p.x` accesses `Parent.x = 10`). However, non-private instance methods are dynamically dispatched at runtime based on the actual object instance (`this` is an instance of `Child`, so `p.print()` invokes `Child.print()`, which prints `20`).",
+      "id": "id_yrp1e56muy6zs51",
+      "createdAt": "2026-10-07T14:17:57.301Z",
+      "updatedAt": "2026-10-07T14:17:57.301Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_5",
+      "module": "diagnostic",
+      "userSubmission": "1, 2, 3, 4, 5",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "1 and 5 are synchronous calls and run immediately. Next, microtasks (Promises) in the microtask queue run before macrotasks: Promise chain prints 3, then 4. Finally, the macrotask (`setTimeout` callback) executes and prints 2.",
+      "id": "id_sqsi2dwmuy6zs5q",
+      "createdAt": "2026-10-07T14:17:57.326Z",
+      "updatedAt": "2026-10-07T14:17:57.326Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_6",
+      "module": "diagnostic",
+      "userSubmission": "O(N)",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "Floyd’s Cycle-Finding algorithm uses two pointers (`slow` moving 1 step and `fast` moving 2 steps). It only stores two memory pointers, requiring O(1) auxiliary constant memory space while traversing in O(N) time.",
+      "id": "id_s923uqgmuy6zs6k",
+      "createdAt": "2026-10-07T14:17:57.356Z",
+      "updatedAt": "2026-10-07T14:17:57.356Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_7",
+      "module": "diagnostic",
+      "userSubmission": "O(1) time using a Bitset",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "By iterating through the array once and storing each seen number in a Hash Map (or Hash Set), we can check in O(1) average time if the complement `K - num` has already been encountered, achieving an optimal O(N) time and O(N) space complexity.",
+      "id": "id_g76l5cnmuy6zs7c",
+      "createdAt": "2026-10-07T14:17:57.384Z",
+      "updatedAt": "2026-10-07T14:17:57.384Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_8",
+      "module": "diagnostic",
+      "userSubmission": "Mutual Exclusion",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "The four necessary Coffman conditions for deadlock are: 1) Mutual Exclusion, 2) Hold and Wait, 3) No Preemption (resources cannot be forcibly taken from processes), and 4) Circular Wait. \"Preemptive Resource Allocation\" actually prevents deadlocks rather than causing them.",
+      "id": "id_8h0oczamuy6zs86",
+      "createdAt": "2026-10-07T14:17:57.414Z",
+      "updatedAt": "2026-10-07T14:17:57.414Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_9",
+      "module": "diagnostic",
+      "userSubmission": "Every non-prime attribute is non-transitively dependent on every candidate key",
+      "isCorrect": true,
+      "scoreAwarded": 10,
+      "timeSpentSeconds": 30,
+      "feedback": "Correct!",
+      "id": "id_3b7f46ymuy6zs8z",
+      "createdAt": "2026-10-07T14:17:57.443Z",
+      "updatedAt": "2026-10-07T14:17:57.443Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "questionId": "diag_10",
+      "module": "diagnostic",
+      "userSubmission": "Write-Back (Write-Behind) Caching",
+      "isCorrect": false,
+      "scoreAwarded": 0,
+      "timeSpentSeconds": 30,
+      "feedback": "In Write-Through caching, data is written into the cache and the permanent database store concurrently before the write operation returns success. This ensures the cache is never stale, though it introduces higher write latency compared to Write-Back.",
+      "id": "id_4jdvu1imuy6zs9s",
+      "createdAt": "2026-10-07T14:17:57.472Z",
+      "updatedAt": "2026-10-07T14:17:57.472Z"
+    }
+  ],
+  "interviewSessions": [],
+  "recommendations": [
+    {
+      "id": "rec_usr_demo_student_01",
+      "userId": "usr_demo_student_01",
+      "dailyMissions": [
+        {
+          "id": "mission_lang_1",
+          "title": "Deep Dive: Memory Models & Async Event Loop",
+          "module": "language",
+          "priority": "Medium",
+          "reason": "Sharpen core language mechanics to ace coding dry-runs.",
+          "estimatedMinutes": 20,
+          "actionUrl": "/learn?track=javascript",
+          "isCompleted": false,
+          "topic": "Event Loop & Promises"
+        },
+        {
+          "id": "mission_ai_int",
+          "title": "Take a 5-Minute AI Technical Mock for Google",
+          "module": "interview",
+          "priority": "Medium",
+          "reason": "Improve live communication clarity and technical structuring.",
+          "estimatedMinutes": 10,
+          "actionUrl": "/interview?type=technical",
+          "isCompleted": false,
+          "topic": "Live Technical Communication"
+        },
+        {
+          "id": "mission_comp_prep",
+          "title": "Review Google Round 1 Syllabus & Patterns",
+          "module": "company",
+          "priority": "Low",
+          "reason": "Understand the exact evaluation rubrics used by Google interviewers.",
+          "estimatedMinutes": 10,
+          "actionUrl": "/company-prep?company=google",
+          "isCompleted": false,
+          "topic": "Hiring Round Intelligence"
+        }
+      ],
+      "roadmap": [
+        {
+          "weekNumber": 1,
+          "title": "Foundational Diagnostics & Core Mastery",
+          "focusArea": "Aptitude Speed & Programming Language Deep Dive",
+          "status": "in_progress",
+          "milestones": [
+            {
+              "title": "Take diagnostic baseline assessment",
+              "completed": true
+            },
+            {
+              "title": "Revise language scoping, pointers & OOP mechanics",
+              "completed": false
+            },
+            {
+              "title": "Solve 20 Quantitative & Logical questions",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 2,
+          "title": "Algorithmic Problem Solving & Data Structures",
+          "focusArea": "Arrays, HashMaps, Two Pointers & Recursion",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Solve 15 LeetCode-style medium DSA challenges",
+              "completed": false
+            },
+            {
+              "title": "Master Sliding Window and Binary Search variants",
+              "completed": false
+            },
+            {
+              "title": "Take 1 Full-Length Timed Coding Assessment",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 3,
+          "title": "Google Company-Specific Blueprint Drill",
+          "focusArea": "Google Past Year OA Patterns & Core CS",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Complete Google Online Assessment Mock",
+              "completed": false
+            },
+            {
+              "title": "Revise OS Concurrency, Deadlocks & DBMS Indexing",
+              "completed": false
+            },
+            {
+              "title": "Solve top 10 frequently asked company questions",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 4,
+          "title": "AI Face-to-Face Interview & Final Placement Readiness",
+          "focusArea": "Live Technical & HR Mock Interviews with AI Scoring",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Complete 3 AI Face-to-Face Technical Mock Sessions",
+              "completed": false
+            },
+            {
+              "title": "Practice STAR method for HR / Behavioral questions",
+              "completed": false
+            },
+            {
+              "title": "Achieve 80%+ Placement Readiness Score on Dashboard",
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "summaryInsight": "Based on your diagnostic benchmark for Google, your highest potential score gain lies in mastering Advanced Problem Solving. Follow your personalized daily missions to boost readiness.",
+      "updatedAt": "2026-10-08T05:52:02.736Z",
+      "createdAt": "2026-08-20T03:59:34.019Z"
+    },
+    {
+      "id": "rec_id_gqj77c2mu8ph5jz",
+      "userId": "id_gqj77c2mu8ph5jz",
+      "dailyMissions": [
+        {
+          "id": "mission_dsa_1",
+          "title": "Master Two-Pointer & Sliding Window Techniques",
+          "module": "coding",
+          "priority": "High",
+          "reason": "Frequently tested in Google Technical Round 1. Current DSA rating is 50%.",
+          "estimatedMinutes": 25,
+          "actionUrl": "/coding?topic=TwoPointers",
+          "isCompleted": false,
+          "topic": "Arrays & Two Pointers"
+        },
+        {
+          "id": "mission_apt_1",
+          "title": "Complete 10 Timed Quantitative & Speed Drills",
+          "module": "aptitude",
+          "priority": "High",
+          "reason": "Crucial for clearing the Google Online Assessment cutoff.",
+          "estimatedMinutes": 15,
+          "actionUrl": "/aptitude?type=speed_drill",
+          "isCompleted": false,
+          "topic": "Time & Work, Speed Math"
+        },
+        {
+          "id": "mission_ai_int",
+          "title": "Take a 5-Minute AI Technical Mock for Google",
+          "module": "interview",
+          "priority": "Medium",
+          "reason": "Improve live communication clarity and technical structuring.",
+          "estimatedMinutes": 10,
+          "actionUrl": "/interview?type=technical",
+          "isCompleted": false,
+          "topic": "Live Technical Communication"
+        },
+        {
+          "id": "mission_comp_prep",
+          "title": "Review Google Round 1 Syllabus & Patterns",
+          "module": "company",
+          "priority": "Low",
+          "reason": "Understand the exact evaluation rubrics used by Google interviewers.",
+          "estimatedMinutes": 10,
+          "actionUrl": "/company-prep?company=google",
+          "isCompleted": false,
+          "topic": "Hiring Round Intelligence"
+        }
+      ],
+      "roadmap": [
+        {
+          "weekNumber": 1,
+          "title": "Foundational Diagnostics & Core Mastery",
+          "focusArea": "Aptitude Speed & Programming Language Deep Dive",
+          "status": "in_progress",
+          "milestones": [
+            {
+              "title": "Take diagnostic baseline assessment",
+              "completed": true
+            },
+            {
+              "title": "Revise language scoping, pointers & OOP mechanics",
+              "completed": false
+            },
+            {
+              "title": "Solve 20 Quantitative & Logical questions",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 2,
+          "title": "Algorithmic Problem Solving & Data Structures",
+          "focusArea": "Arrays, HashMaps, Two Pointers & Recursion",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Solve 15 LeetCode-style medium DSA challenges",
+              "completed": false
+            },
+            {
+              "title": "Master Sliding Window and Binary Search variants",
+              "completed": false
+            },
+            {
+              "title": "Take 1 Full-Length Timed Coding Assessment",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 3,
+          "title": "Google Company-Specific Blueprint Drill",
+          "focusArea": "Google Past Year OA Patterns & Core CS",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Complete Google Online Assessment Mock",
+              "completed": false
+            },
+            {
+              "title": "Revise OS Concurrency, Deadlocks & DBMS Indexing",
+              "completed": false
+            },
+            {
+              "title": "Solve top 10 frequently asked company questions",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 4,
+          "title": "AI Face-to-Face Interview & Final Placement Readiness",
+          "focusArea": "Live Technical & HR Mock Interviews with AI Scoring",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Complete 3 AI Face-to-Face Technical Mock Sessions",
+              "completed": false
+            },
+            {
+              "title": "Practice STAR method for HR / Behavioral questions",
+              "completed": false
+            },
+            {
+              "title": "Achieve 80%+ Placement Readiness Score on Dashboard",
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "summaryInsight": "Based on your diagnostic benchmark for Google, your highest potential score gain lies in mastering Time and Work & Series & Patterns. Follow your personalized daily missions to boost readiness.",
+      "updatedAt": "2026-09-19T18:14:24.477Z",
+      "createdAt": "2026-09-19T18:14:24.486Z"
+    },
+    {
+      "id": "rec_id_i0c3hiymuy6wpf1",
+      "userId": "id_i0c3hiymuy6wpf1",
+      "dailyMissions": [
+        {
+          "id": "mission_dsa_1",
+          "title": "Master Two-Pointer & Sliding Window Techniques",
+          "module": "coding",
+          "priority": "High",
+          "reason": "Frequently tested in Google Technical Round 1. Current DSA rating is 0%.",
+          "estimatedMinutes": 25,
+          "actionUrl": "/coding?topic=TwoPointers",
+          "isCompleted": false,
+          "topic": "Arrays & Two Pointers"
+        },
+        {
+          "id": "mission_apt_1",
+          "title": "Complete 10 Timed Quantitative & Speed Drills",
+          "module": "aptitude",
+          "priority": "High",
+          "reason": "Crucial for clearing the Google Online Assessment cutoff.",
+          "estimatedMinutes": 15,
+          "actionUrl": "/aptitude?type=speed_drill",
+          "isCompleted": false,
+          "topic": "Time & Work, Speed Math"
+        },
+        {
+          "id": "mission_ai_int",
+          "title": "Take a 5-Minute AI Technical Mock for Google",
+          "module": "interview",
+          "priority": "Medium",
+          "reason": "Improve live communication clarity and technical structuring.",
+          "estimatedMinutes": 10,
+          "actionUrl": "/interview?type=technical",
+          "isCompleted": false,
+          "topic": "Live Technical Communication"
+        },
+        {
+          "id": "mission_comp_prep",
+          "title": "Review Google Round 1 Syllabus & Patterns",
+          "module": "company",
+          "priority": "Low",
+          "reason": "Understand the exact evaluation rubrics used by Google interviewers.",
+          "estimatedMinutes": 10,
+          "actionUrl": "/company-prep?company=google",
+          "isCompleted": false,
+          "topic": "Hiring Round Intelligence"
+        }
+      ],
+      "roadmap": [
+        {
+          "weekNumber": 1,
+          "title": "Foundational Diagnostics & Core Mastery",
+          "focusArea": "Aptitude Speed & Programming Language Deep Dive",
+          "status": "in_progress",
+          "milestones": [
+            {
+              "title": "Take diagnostic baseline assessment",
+              "completed": true
+            },
+            {
+              "title": "Revise language scoping, pointers & OOP mechanics",
+              "completed": false
+            },
+            {
+              "title": "Solve 20 Quantitative & Logical questions",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 2,
+          "title": "Algorithmic Problem Solving & Data Structures",
+          "focusArea": "Arrays, HashMaps, Two Pointers & Recursion",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Solve 15 LeetCode-style medium DSA challenges",
+              "completed": false
+            },
+            {
+              "title": "Master Sliding Window and Binary Search variants",
+              "completed": false
+            },
+            {
+              "title": "Take 1 Full-Length Timed Coding Assessment",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 3,
+          "title": "Google Company-Specific Blueprint Drill",
+          "focusArea": "Google Past Year OA Patterns & Core CS",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Complete Google Online Assessment Mock",
+              "completed": false
+            },
+            {
+              "title": "Revise OS Concurrency, Deadlocks & DBMS Indexing",
+              "completed": false
+            },
+            {
+              "title": "Solve top 10 frequently asked company questions",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "weekNumber": 4,
+          "title": "AI Face-to-Face Interview & Final Placement Readiness",
+          "focusArea": "Live Technical & HR Mock Interviews with AI Scoring",
+          "status": "upcoming",
+          "milestones": [
+            {
+              "title": "Complete 3 AI Face-to-Face Technical Mock Sessions",
+              "completed": false
+            },
+            {
+              "title": "Practice STAR method for HR / Behavioral questions",
+              "completed": false
+            },
+            {
+              "title": "Achieve 80%+ Placement Readiness Score on Dashboard",
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "summaryInsight": "Based on your diagnostic benchmark for Google, your highest potential score gain lies in mastering Time and Work & Object Oriented Programming. Follow your personalized daily missions to boost readiness.",
+      "updatedAt": "2026-10-07T14:17:57.498Z",
+      "createdAt": "2026-10-07T14:17:57.510Z"
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp_google",
+      "name": "Google",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg",
+      "tier": "Super Dream",
+      "description": "Global tech giant famous for search, cloud, AI, and large-scale distributed systems. Interviews emphasize data structures, algorithmic optimization, and clean architectural design.",
+      "targetRoles": [
+        "Software Engineer (L3)",
+        "Associate Product Manager",
+        "Data Scientist"
+      ],
+      "hiringRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Online Coding Assessment",
+          "type": "Online Assessment",
+          "description": "2-3 algorithmic problems (Graph, DP, Sliding Window, Trees) on a timed platform (90 mins).",
+          "keyTopics": [
+            "Dynamic Programming",
+            "Graph BFS/DFS",
+            "Trie / Segment Trees",
+            "Greedy Algorithms"
+          ],
+          "tips": [
+            "Focus on edge cases and optimal O(N) or O(N log N) time complexity.",
+            "Write modular, clean variable names."
+          ]
+        },
+        {
+          "roundNumber": 2,
+          "name": "Technical Interview I (DSA & Coding)",
+          "type": "Technical Round 1",
+          "description": "45-minute live coding session on Google Docs or shared editor solving complex algorithmic challenges.",
+          "keyTopics": [
+            "Trees & Graphs",
+            "Recursion & Backtracking",
+            "Time/Space Complexity Proofs"
+          ],
+          "tips": [
+            "Think out loud continuously. Clarify assumptions before writing code."
+          ]
+        },
+        {
+          "roundNumber": 3,
+          "name": "Technical Interview II (Advanced DSA / System Design)",
+          "type": "Technical Round 2",
+          "description": "Deep dive into data architecture, scalability, cache management, or complex problem solving.",
+          "keyTopics": [
+            "Concurrency",
+            "Hash Maps / LRU Cache",
+            "System Trade-offs"
+          ],
+          "tips": [
+            "Discuss trade-offs between space and time. Show willingness to iterate."
+          ]
+        },
+        {
+          "roundNumber": 4,
+          "name": "Googliness & Leadership (HR)",
+          "type": "Managerial / HR",
+          "description": "Assesses cultural fit, navigating ambiguity, collaborative teamwork, and ethical decision making.",
+          "keyTopics": [
+            "STAR Method",
+            "Handling Conflict",
+            "Initiative & Passion"
+          ],
+          "tips": [
+            "Use the STAR framework (Situation, Task, Action, Result) with quantified impacts."
+          ]
+        }
+      ],
+      "skillWeightage": {
+        "aptitude": 10,
+        "dsa": 50,
+        "languages": 15,
+        "coreCs": 15,
+        "interview": 10
+      },
+      "frequentlyAskedTopics": [
+        "Dynamic Programming",
+        "Binary Trees",
+        "Graphs",
+        "Trie",
+        "Sliding Window",
+        "Two Pointers"
+      ],
+      "difficultyLevel": "Extreme",
+      "createdAt": "2026-08-20T03:58:05.281Z",
+      "updatedAt": "2026-08-20T03:58:05.281Z"
+    },
+    {
+      "id": "comp_amazon",
+      "name": "Amazon",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+      "tier": "Super Dream",
+      "description": "Leader in e-commerce, cloud infrastructure (AWS), and streaming. Interviews rigorously test Amazon Leadership Principles alongside DSA.",
+      "targetRoles": [
+        "Software Development Engineer (SDE-1)",
+        "Cloud Support Engineer",
+        "Data Engineer"
+      ],
+      "hiringRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Online Assessment (OA1 & OA2)",
+          "type": "Online Assessment",
+          "description": "2 Coding questions + Work Style Assessment (Leadership Principles behavioral quiz).",
+          "keyTopics": [
+            "Arrays",
+            "Strings",
+            "Hash Tables",
+            "Leadership Principles"
+          ],
+          "tips": [
+            "Make sure all public & hidden test cases pass.",
+            "Align answers strictly with LP values (Customer Obsession, Ownership)."
+          ]
+        },
+        {
+          "roundNumber": 2,
+          "name": "Technical Interview 1",
+          "type": "Technical Round 1",
+          "description": "Core DSA coding problem with follow-up scaling questions + 2 LP behavioral questions.",
+          "keyTopics": [
+            "Priority Queue / Heaps",
+            "Trees & BST",
+            "Customer Obsession"
+          ],
+          "tips": [
+            "Prepare 2 distinct real-life stories per leadership principle."
+          ]
+        },
+        {
+          "roundNumber": 3,
+          "name": "Technical Interview 2 & Bar Raiser",
+          "type": "Technical Round 2",
+          "description": "In-depth problem solving, Object-Oriented Design (LLD), and Bar Raiser standard evaluation.",
+          "keyTopics": [
+            "OOP Design Patterns",
+            "Stack/Queue",
+            "Deliver Results",
+            "Bias for Action"
+          ],
+          "tips": [
+            "Show robust OOP principles (SOLID, encapsulation, clean interfaces)."
+          ]
+        }
+      ],
+      "skillWeightage": {
+        "aptitude": 15,
+        "dsa": 40,
+        "languages": 15,
+        "coreCs": 15,
+        "interview": 15
+      },
+      "frequentlyAskedTopics": [
+        "Topological Sort",
+        "LRU Cache",
+        "Priority Queue",
+        "OOP Design",
+        "Trees",
+        "Strings"
+      ],
+      "difficultyLevel": "Hard",
+      "createdAt": "2026-08-20T03:58:05.283Z",
+      "updatedAt": "2026-08-20T03:58:05.283Z"
+    },
+    {
+      "id": "comp_microsoft",
+      "name": "Microsoft",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg",
+      "tier": "Super Dream",
+      "description": "Pioneer in enterprise cloud (Azure), operating systems, and developer tooling. Focuses on strong CS fundamentals, OS, OOP, and algorithms.",
+      "targetRoles": [
+        "Software Engineer",
+        "Support Engineer",
+        "Security Engineer"
+      ],
+      "hiringRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Online Assessment",
+          "type": "Online Assessment",
+          "description": "3 coding questions on Codility or Mettle measuring problem solving and speed.",
+          "keyTopics": [
+            "Arrays & Matrices",
+            "String Manipulation",
+            "Bit Manipulation"
+          ],
+          "tips": [
+            "Practice writing bug-free code quickly. Edge cases like empty inputs matter."
+          ]
+        },
+        {
+          "roundNumber": 2,
+          "name": "Technical Round 1 (DSA & Core CS)",
+          "type": "Technical Round 1",
+          "description": "Linked Lists, Binary Trees, Operating System internals, and Memory Management.",
+          "keyTopics": [
+            "Pointers & Linked Lists",
+            "Deadlocks & Multithreading",
+            "Memory Allocations"
+          ],
+          "tips": [
+            "Explain OS concepts clearly (Paging, Virtual Memory, Process vs Thread)."
+          ]
+        },
+        {
+          "roundNumber": 3,
+          "name": "Technical Round 2 & Cultural Fit",
+          "type": "Technical Round 2",
+          "description": "Advanced algorithms, project architecture discussion, and growth mindset assessment.",
+          "keyTopics": [
+            "System Design Basics",
+            "Project Deep Dive",
+            "Growth Mindset"
+          ],
+          "tips": [
+            "Be ready to defend architectural choices made in your college/personal projects."
+          ]
+        }
+      ],
+      "skillWeightage": {
+        "aptitude": 15,
+        "dsa": 35,
+        "languages": 20,
+        "coreCs": 20,
+        "interview": 10
+      },
+      "frequentlyAskedTopics": [
+        "Linked Lists",
+        "Binary Search",
+        "Trees",
+        "OS Multithreading",
+        "Bitwise Tricks",
+        "DBMS Indexing"
+      ],
+      "difficultyLevel": "Hard",
+      "createdAt": "2026-08-20T03:58:05.286Z",
+      "updatedAt": "2026-08-20T03:58:05.286Z"
+    },
+    {
+      "id": "comp_tcs",
+      "name": "TCS (Tata Consultancy Services)",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+      "tier": "Service/Mass",
+      "description": "Premier global IT services and consulting enterprise. Evaluates through the National Qualifier Test (TCS NQT) for Ninja and Digital/Prime roles.",
+      "targetRoles": [
+        "TCS Digital / Prime Developer",
+        "TCS Ninja Engineer",
+        "Systems Engineer"
+      ],
+      "hiringRounds": [
+        {
+          "roundNumber": 1,
+          "name": "TCS NQT (Cognitive & Coding Assessment)",
+          "type": "Online Assessment",
+          "description": "Section 1: Numerical Ability, Reasoning Ability, Verbal Ability (80 mins). Section 2: Advanced Coding (2 problems, 60 mins).",
+          "keyTopics": [
+            "Profit & Loss, Time & Work",
+            "Syllogisms & Series",
+            "Basic-to-Medium Coding in C++/Java/Python"
+          ],
+          "tips": [
+            "Accuracy in the Cognitive section is mandatory to unlock Digital/Prime cutoffs."
+          ]
+        },
+        {
+          "roundNumber": 2,
+          "name": "TR + MR + HR (Technical & Managerial)",
+          "type": "Technical Round 1",
+          "description": "Combined interview covering Programming basics, OOPs, SQL queries, resume projects, and relocation flexibility.",
+          "keyTopics": [
+            "SQL Joins & Normalization",
+            "OOPs Concepts",
+            "Basic C/Java Questions",
+            "Willingness to Relocate"
+          ],
+          "tips": [
+            "Revise standard SQL queries (e.g., 2nd highest salary, grouping) and core OOP principles."
+          ]
+        }
+      ],
+      "skillWeightage": {
+        "aptitude": 40,
+        "dsa": 20,
+        "languages": 20,
+        "coreCs": 15,
+        "interview": 5
+      },
+      "frequentlyAskedTopics": [
+        "Numbers & Divisibility",
+        "Percentages & Ratios",
+        "SQL Queries",
+        "OOPs in Java/C++",
+        "String Palindromes",
+        "Matrix Traversal"
+      ],
+      "difficultyLevel": "Moderate",
+      "createdAt": "2026-08-20T03:58:05.288Z",
+      "updatedAt": "2026-08-20T03:58:05.288Z"
+    },
+    {
+      "id": "comp_infosys",
+      "name": "Infosys",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+      "tier": "Service/Mass",
+      "description": "Global leader in digital services and consulting. Hiring tracks include Systems Engineer, Specialist Programmer (SP), and Digital Specialist Engineer (DSE).",
+      "targetRoles": [
+        "Specialist Programmer (SP)",
+        "Digital Specialist Engineer (DSE)",
+        "Systems Engineer (SE)"
+      ],
+      "hiringRounds": [
+        {
+          "roundNumber": 1,
+          "name": "InfyTQ / HackWithInfy / Campus Assessment",
+          "type": "Online Assessment",
+          "description": "High-speed Aptitude (Mathematical, Logical, Verbal, Pseudocoding) + 3 DSA coding questions for SP/DSE tracks.",
+          "keyTopics": [
+            "Pseudocode Tracing",
+            "Combinatorics",
+            "Greedy & DP Algorithms"
+          ],
+          "tips": [
+            "Practice tracing nested loops and recursion pseudocodes under tight time limits."
+          ]
+        },
+        {
+          "roundNumber": 2,
+          "name": "Technical & HR Interview",
+          "type": "Technical Round 1",
+          "description": "Questions on final-year project, database design, web stack, data structures, and interpersonal skills.",
+          "keyTopics": [
+            "Database Normalization",
+            "REST API basics",
+            "Project Architecture",
+            "Communication"
+          ],
+          "tips": [
+            "Highlight hands-on coding experience and practical project problem-solving."
+          ]
+        }
+      ],
+      "skillWeightage": {
+        "aptitude": 35,
+        "dsa": 25,
+        "languages": 20,
+        "coreCs": 15,
+        "interview": 5
+      },
+      "frequentlyAskedTopics": [
+        "Mathematical Ability",
+        "Pseudocode Dry Run",
+        "Dynamic Programming",
+        "SQL Joins",
+        "Java Collections",
+        "Data Structures"
+      ],
+      "difficultyLevel": "Moderate",
+      "createdAt": "2026-08-20T03:58:05.289Z",
+      "updatedAt": "2026-08-20T03:58:05.289Z"
+    },
+    {
+      "id": "comp_goldman",
+      "name": "Goldman Sachs",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      "tier": "Super Dream",
+      "description": "Leading global financial institution. Known for rigorous math, high-level quantitative aptitude, core CS, and complex algorithmic coding tests.",
+      "targetRoles": [
+        "Engineering Analyst (Summer/Full-time)",
+        "Quantitative Strategist"
+      ],
+      "hiringRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Aptitude & Coding Assessment (HackerRank)",
+          "type": "Online Assessment",
+          "description": "Numerical Computation, Logical Reasoning, Advanced Mathematics/Probability, CS Core (OS/DBMS), and 2 Hard Coding questions.",
+          "keyTopics": [
+            "Probability & Permutations",
+            "Trees & Heaps",
+            "Dynamic Programming",
+            "OS & DBMS MCQs"
+          ],
+          "tips": [
+            "Focus heavily on probability, expected value problems, and optimal graph/tree algorithms."
+          ]
+        },
+        {
+          "roundNumber": 2,
+          "name": "Technical Round 1 & 2",
+          "type": "Technical Round 1",
+          "description": "Problem-solving on whiteboards, time complexity analysis, low-level data structures, and math puzzles.",
+          "keyTopics": [
+            "Mathematical Puzzles",
+            "Custom Data Structures",
+            "Concurrency & Locks"
+          ],
+          "tips": [
+            "Be prepared for classical math/logic puzzles (e.g. burning ropes, river crossing, 25 horses)."
+          ]
+        }
+      ],
+      "skillWeightage": {
+        "aptitude": 30,
+        "dsa": 35,
+        "languages": 10,
+        "coreCs": 15,
+        "interview": 10
+      },
+      "frequentlyAskedTopics": [
+        "Probability & Statistics",
+        "Puzzles",
+        "Trees & Graphs",
+        "LRU Cache",
+        "System Architecture",
+        "SQL Optimization"
+      ],
+      "difficultyLevel": "Extreme",
+      "createdAt": "2026-08-20T03:58:05.292Z",
+      "updatedAt": "2026-08-20T03:58:05.292Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "date": "2026-10-07",
+      "category": "aptitude",
+      "solvedCount": 1,
+      "attemptedCount": 2,
+      "difficulty": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "id": "id_20x8czemuy6zs3j",
+      "createdAt": "2026-10-07T14:17:57.247Z",
+      "updatedAt": "2026-10-07T14:17:57.270Z"
+    },
+    {
+      "userId": "id_i0c3hiymuy6wpf1",
+      "date": "2026-10-07",
+      "category": "programming",
+      "solvedCount": 2,
+      "attemptedCount": 8,
+      "difficulty": {
+        "easy": 1,
+        "medium": 5,
+        "hard": 2
+      },
+      "id": "id_br7f38ymuy6zs4o",
+      "createdAt": "2026-10-07T14:17:57.288Z",
+      "updatedAt": "2026-10-07T14:17:57.483Z"
+    }
+  ],
+  "codingAttempts": []
+}

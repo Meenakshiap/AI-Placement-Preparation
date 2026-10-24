@@ -1,0 +1,116 @@
+:root {
+  --bg: #f6f1e8;
+  --bg-elevated: #fffdf9;
+  --surface: #ffffff;
+  --surface-strong: #f3efe7;
+  --border: #e6ded1;
+  --text: #172033;
+  --text-muted: #5b6474;
+  --text-soft: #7d8696;
+  --accent: #b7791f;
+  --accent-soft: #f6e7c8;
+  --success: #2f5d3a;
+  --warning: #b15a3c;
+  --shadow-soft: 0 1px 0 rgba(23, 32, 51, 0.04), 0 10px 20px rgba(23, 32, 51, 0.03);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Inter", "Source Sans 3", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+
+  body {
+    @apply m-0 min-h-screen bg-[var(--bg)] text-[var(--text)] antialiased;
+    font-family: "Inter", "Source Sans 3", sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Sora", "Manrope", "Plus Jakarta Sans", sans-serif;
+    letter-spacing: -0.02em;
+    color: var(--text);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+@layer components {
+  .app-shell {
+    background: var(--bg);
+    color: var(--text);
+  }
+
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .panel-muted {
+    background: var(--surface-strong);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+  }
+
+  .btn-primary {
+    background: var(--accent);
+    color: #ffffff;
+    border: 1px solid var(--accent);
+    border-radius: 10px;
+    transition: all 0.2s ease;
+  }
+
+  .btn-primary:hover {
+    background: #a96d1c;
+  }
+
+  .btn-secondary {
+    background: transparent;
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }
+
+  .nav-pill {
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--text-muted);
+    border-radius: 10px;
+  }
+
+  .nav-pill.active {
+    background: var(--accent-soft);
+    border-color: rgba(183, 121, 31, 0.24);
+    color: var(--text);
+  }
+
+  .status-tag {
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface-strong);
+    color: var(--text-muted);
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f4efe7;
+}
+::-webkit-scrollbar-thumb {
+  background: #d7c7b4;
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c6b59d;
+}
