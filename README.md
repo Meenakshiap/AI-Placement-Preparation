@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Personalized Placement Preparation Platform
 
 An end-to-end adaptive platform designed to prepare students for tech placements through personalized skill diagnostics, company-specific roadmaps, algorithmic coding practice, aptitude training, and face-to-face AI mock interviews.
@@ -298,3 +299,7 @@ For questions or support, please reach out through the platform's feedback syste
 ---
 
 **Built with ❤️ for aspiring software engineers preparing for their dream placements!**
+=======
+# AI-Placement-Preparation
+An AI-powered placement preparation platform featuring personalized skill assessments, DSA coding practice, aptitude training, company-specific preparation roadmaps, and AI mock interviews.
+>>>>>>> cd287ec39820460dcd73bb82ec6f7a4dea260df3
